@@ -1,0 +1,33 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Gradle template
+.gradle
+**/build/
+**/bin/
+**/out/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+.idea
+gradlew.bat
+
+**/.classpath
+**/.project
+**/.settings
+v4*
+v4/**
+v4.*
+v4.properties
+v4.script
+gateway/v4.*

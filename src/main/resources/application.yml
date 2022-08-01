@@ -1,0 +1,10 @@
+basicapp:
+  datasources:
+    postgres:
+      server:
+        url: ${DB1_URL:localhost}
+        port: ${DB1_PORT:5432}
+      db:
+        name: ${DB1_NAME:postgres}
+        user: ${DB1_USER:postgres}
+        password: ${DB1_PWD:postgres}
